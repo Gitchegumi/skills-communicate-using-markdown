@@ -6,3 +6,7 @@ I am a real live human being!
 ```
 print('Hello World')
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
